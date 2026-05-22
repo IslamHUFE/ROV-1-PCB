@@ -12425,6 +12425,12 @@
 		(layer "Edge.Cuts")
 		(uuid "4d3fd320-aa4e-493e-9ac8-9a10e517e03e")
 	)
+	(point
+		(at 188.5 42.5)
+		(size 1)
+		(layer "F.Cu")
+		(uuid "c8c6500a-6e82-4881-960e-19f33d810ef7")
+	)
 	(segment
 		(start 120.575 70.825)
 		(end 120.575 60.225)
